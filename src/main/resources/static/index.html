@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ChatBot Client</title>
+    <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+
+<div id="sidebar">
+    <button onclick="newChat()">+ New Chat</button>
+    <button onclick="saveToXML()">💾 Save to XML</button>
+    <button onclick="document.getElementById('fileLoader').click()">📂 Load from XML</button>
+    <button onclick="openHelp()">❓ Help</button>
+    <input type="file" id="fileLoader" accept=".xml" />
+    <div id="chatList"></div>
+</div>
+
+<div id="main">
+    <div id="chat"></div>
+    <div id="inputArea">
+        <input type="text" id="messageInput" placeholder="Type your message..." />
+        <button id="sendBtn">Send</button>
+    </div>
+</div>
+
+<div id="overlay"></div>
+<div id="helpModal">
+    <h3>Chat Interface Help</h3>
+    <ul>
+        <li><b>New Chat</b>: Create a new conversation with a custom name.</li>
+        <li><b>Save to XML</b>: Download current chat as XML.</li>
+        <li><b>Load from XML</b>: Upload and view saved XML chat.</li>
+        <li><b>Click chat name</b>: Switch between chats.</li>
+    </ul>
+    <button onclick="closeHelp()">Close</button>
+</div>
+
+<script src="main.js"></script>
+
+</body>
+</html>
