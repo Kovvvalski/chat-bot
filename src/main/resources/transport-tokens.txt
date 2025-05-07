@@ -1,0 +1,265 @@
+car
+cars
+bus
+buses
+train
+trains
+plane
+planes
+truck
+trucks
+vehicle
+vehicles
+transportation
+taxi
+taxis
+tram
+trams
+subway
+subways
+highway
+highways
+traffic
+driver
+drivers
+engine
+engines
+brake
+brakes
+fuel
+fuels
+airplane
+airplanes
+bicycle
+bicycles
+motorcycle
+motorcycles
+scooter
+scooters
+logistics
+shipment
+shipments
+rail
+rails
+railway
+railways
+road
+roads
+delivery
+deliveries
+freight
+freights
+cargo
+cargoes
+port
+ports
+harbor
+harbors
+dock
+docks
+terminal
+terminals
+station
+stations
+bus stop
+bus stops
+garage
+garages
+parking
+parking lot
+runway
+runways
+airstrip
+airstrips
+helicopter
+helicopters
+aircraft
+aircrafts
+vessel
+vessels
+ship
+ships
+boat
+boats
+submarine
+submarines
+truck driver
+truck drivers
+conductor
+conductors
+pilot
+pilots
+captain
+captains
+mechanic
+mechanics
+transport
+transports
+commute
+commutes
+navigation
+navigator
+navigators
+aviation
+aeronautics
+maritime
+drone
+drones
+autonomous
+electric
+hybrid
+motor
+motors
+engineer
+engineers
+fleet
+fleets
+lane
+lanes
+intersection
+intersections
+toll
+tolls
+bridge
+bridges
+crossing
+crossings
+checkpoint
+checkpoints
+container
+containers
+hauler
+haulers
+ride
+rides
+ride-sharing
+carpool
+carpools
+station
+charging
+charge
+warehouse
+warehouses
+transit
+shuttle
+shuttles
+metro
+metros
+conveyor
+conveyors
+passenger
+passengers
+crew
+members
+member
+maintenance
+repair
+repairs
+inspection
+inspections
+shipment tracking
+gps
+system
+lane
+change
+gear
+gears
+dashboard
+seat
+seats
+sedan
+sedans
+coupe
+coupes
+hatchback
+hatchbacks
+SUV
+SUVs
+minivan
+minivans
+pickup
+pickups
+off-roader
+off-roaders
+ATV
+ATVs
+quad bike
+quad bikes
+moped
+mopeds
+rickshaw
+rickshaws
+tuk-tuk
+tuk-tuks
+caravan
+caravans
+camper
+campers
+RV
+RVs
+buggy
+buggies
+golf cart
+golf carts
+snowmobile
+snowmobiles
+segway
+segways
+monorail
+monorails
+bullet train
+bullet trains
+freight train
+freight trains
+commuter train
+commuter trains
+sleeper car
+sleeper cars
+railcar
+railcars
+locomotive
+locomotives
+train station
+train stations
+rail yard
+rail yards
+caboose
+cabooses
+track
+tracks
+railbed
+railbeds
+rail crossing
+rail crossings
+glider
+gliders
+jet
+jets
+airliner
+airliners
+propeller plane
+propeller planes
+seaplane
+seaplanes
+biplane
+biplanes
+hang glider
+hang gliders
+ultralight
+ultralights
+hot air balloon
+hot air balloons
+airship
+airships
+blimp
+blimps
+drone taxi
+drone taxis
+aerodrome
+aerodromes
+yacht
+yachts
+ferry
+ferries
+barge
+barges
